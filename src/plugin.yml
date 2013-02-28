@@ -1,0 +1,20 @@
+name: Glowjoin
+main: com.mariogrip.glowjoin.Main
+version: 3.0
+commands:
+   glowjoin:
+      description: Glowjoin commands
+      usage: /glowask
+      permission-message: You don't have permissions
+   greset:
+      description: Reset the value of Total joined players!
+      usage: /greset
+      permission-message: You don't have permissions
+   gresetconfig:
+      description: Reset the Config file!
+      usage: /gresetconfig
+      permission-message: You don't have permissions
+   gset:
+      description: set the Config file!
+      usage: /gset <The config value> <edit to>
+      permission-message: You don't have permissions

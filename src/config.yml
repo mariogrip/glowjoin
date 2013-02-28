@@ -1,0 +1,10 @@
+# This is the config for glowjoin
+# here you can edit all stuff. 
+# %player% = the players name
+# %tplayer% = Total players join!
+Message_of_The_Day: '&bHello %player%, Whats up?!'
+New_Player_Join_Message: '&dWelcome to this server, %player%'
+Returning_Player_Join_Message: '&dWelcome Back, %player%!'
+Total_players_Message: '&d%tplayers% Players Have Joined This Server!'
+Quit_player_Message: '&d%player% left the server!'
+Total_Joined_the_server_Players: 0
